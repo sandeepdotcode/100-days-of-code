@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+<!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -27,4 +27,14 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+
+### Day 0: November 11, 2022
+
+**Today's Progress**: Wrote some JavaScript code for the Library Project for The Odin Project
+- Created function to add new book with form
+- Created function to remove book from the Library(array as well as from cards displayed)
+
+**Thoughts:** Today's work was pretty straigtforward except for some stupid mindless mistakes. Learned to process form input with JS.
+
+**Link to work:** [Library App](https://github.com/sandeepdotcode/library)
