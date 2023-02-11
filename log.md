@@ -29,7 +29,7 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
 
-### Day 0: November 11, 2022
+### Day 0: February 11, 2023
 
 **Today's Progress**: Wrote game winning logic(JavaScript) for the Tic Tac Toe game project for The Odin Project
 - Completed fn. to play one move and check for end of game
