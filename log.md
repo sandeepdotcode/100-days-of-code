@@ -31,10 +31,10 @@
 
 ### Day 0: November 11, 2022
 
-**Today's Progress**: Wrote some JavaScript code for the Library Project for The Odin Project
-- Created function to add new book with form
-- Created function to remove book from the Library(array as well as from cards displayed)
+**Today's Progress**: Wrote game winning logic(JavaScript) for the Tic Tac Toe game project for The Odin Project
+- Completed fn. to play one move and check for end of game
+- Created helper fn.s to return rows & columns from gameboard, check for win or draw, etc
 
-**Thoughts:** Today's work was pretty straigtforward except for some stupid mindless mistakes. Learned to process form input with JS.
+**Thoughts:** Started being consistent for the last few days after slacking for months. This is my third time starting 100 days of code and this time I'm determined to stick with it. Third time's the charm!
 
-**Link to work:** [Library App](https://github.com/sandeepdotcode/library)
+**Link to work:** [Tic Tac Toe App](https://github.com/sandeepdotcode/tic-tac-toe)
