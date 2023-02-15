@@ -55,3 +55,16 @@
 **Thoughts:** Spent much time on figma because I haven't used it in a while. Also had to revise CSS grid because I found centering element inside grid area difficult.
 
 **Link to work:** Same link provided on day 0.
+
+### Day 3: February 14, 2023 Tuesday
+
+**Today's Progress**: 
+Worked on Tic Tac Toe JS Project
+- Almost completed styling of main game screen
+- Added functionality to start next round & restart game
+- Fixed bugs
+
+**Thoughts:**
+Today was particularly productive. Got a lot of work done. Also updated the readmes of some previous projects.
+
+**Link to work:** Same link provided on day 0.
