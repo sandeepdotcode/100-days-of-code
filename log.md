@@ -68,3 +68,15 @@ Worked on Tic Tac Toe JS Project
 Today was particularly productive. Got a lot of work done. Also updated the readmes of some previous projects.
 
 **Link to work:** Same link provided on day 0.
+
+### Day 4: February 15, 2023 Wednesday
+
+**Today's Progress**: 
+Worked on Tic Tac Toe JS Project
+- Added section to display the score & styled it
+- Added score property to player objects and methods to update & fetch it
+- Added function to display the score
+
+**Thoughts:**
+
+**Link to work:** Same link provided on day 0.
