@@ -80,3 +80,15 @@ Worked on Tic Tac Toe JS Project
 **Thoughts:**
 
 **Link to work:** Same link provided on day 0.
+
+### Day 4(2nd): February 17, 2023 Friday
+
+**Today's Progress**: 
+Worked on Tic Tac Toe JS Project
+- JavaSript code to show the status of the game(winner, draw, turn, etc)
+
+**Thoughts:**
+Only little work done today. Spent time studying classes in JS.
+Missed a day yesterday. Decided to not progress the day counter. So, today is the '2nd' 4th day!
+
+**Link to work:** Same link provided on day 0.
