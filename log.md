@@ -92,3 +92,15 @@ Only little work done today. Spent time studying classes in JS.
 Missed a day yesterday. Decided to not progress the day counter. So, today is the '2nd' 4th day!
 
 **Link to work:** Same link provided on day 0.
+
+### Day 5: February 18, 2023 Saturday
+
+**Today's Progress**: 
+Went back to Library Project
+- refactored code to use class instead of object constructors
+- fixed some coloring bugs
+
+**Thoughts:**
+Only little work done today. Spent time studying classes in JS.
+
+**Link to work:** [Library](https://github.com/sandeepdotcode/library)
