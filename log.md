@@ -68,6 +68,6 @@ Worked on Restaurant Page Project([TOP](https://www.theodinproject.com))
 - Created the homepage with a JS module
 - Created another module to load the homepage module at initial page-load
 
-**Thoughts:** Not spending large amounts of time for TOP to learn CS & also to avoid burnout. 
+**Thoughts:** Spend more time planning the project and learning about different things to be used, but don't worry. This will get better in a few days time.
 
 ***Link to work:** [Restaurant Page](https://github.com/sandeepdotcode/restaurant-page)
