@@ -60,3 +60,14 @@ Worked on Restaurant Page Project([TOP](https://www.theodinproject.com))
 **Thoughts:** Not spending large amounts of time for TOP to learn CS & also to avoid burnout. 
 
 ***Link to work:** [Restaurant Page](https://github.com/sandeepdotcode/restaurant-page)
+
+## Day 5: March 4, 2023 Saturday
+
+**Today's Progress**: 
+Worked on Restaurant Page Project([TOP](https://www.theodinproject.com))
+- Created the homepage with a JS module
+- Created another module to load the homepage module at initial page-load
+
+**Thoughts:** Not spending large amounts of time for TOP to learn CS & also to avoid burnout. 
+
+***Link to work:** [Restaurant Page](https://github.com/sandeepdotcode/restaurant-page)
