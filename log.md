@@ -71,3 +71,25 @@ Worked on Restaurant Page Project([TOP](https://www.theodinproject.com))
 **Thoughts:** Spend more time planning the project and learning about different things to be used, but don't worry. This will get better in a few days time.
 
 ***Link to work:** [Restaurant Page](https://github.com/sandeepdotcode/restaurant-page)
+
+## Day 6: March 5, 2023 Sunday
+
+**Today's Progress**: 
+Worked on Restaurant Page Project([TOP](https://www.theodinproject.com))
+- Imported Assets like fonts, images & css stylesheets using webpack
+
+**Thoughts:** 
+
+***Link to work:** [Restaurant Page](https://github.com/sandeepdotcode/restaurant-page)
+
+## Day 7: March 6, 2023 Monday
+
+**Today's Progress**: 
+Worked on Restaurant Page Project([TOP](https://www.theodinproject.com))
+- Installed Webpack Live Server
+- Styled header and contents
+- Positioned Mission Description div and contents
+
+**Thoughts:** 
+
+***Link to work:** [Restaurant Page](https://github.com/sandeepdotcode/restaurant-page)
