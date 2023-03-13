@@ -93,3 +93,68 @@ Worked on Restaurant Page Project([TOP](https://www.theodinproject.com))
 **Thoughts:** 
 
 ***Link to work:** [Restaurant Page](https://github.com/sandeepdotcode/restaurant-page)
+
+## Day 8: March 7, 2023 Tuesday
+
+**Today's Progress**: 
+Worked on Restaurant Page Project([TOP](https://www.theodinproject.com))
+- Added images w/ transparent bg to home page
+- changes position of Mission div
+
+**Thoughts:** spend so much time removing bg from images using photoshop
+
+***Link to work:** [Restaurant Page](https://github.com/sandeepdotcode/restaurant-page)
+
+## Day 9: March 8, 2023 Wednesday
+
+**Today's Progress**: 
+Worked on Restaurant Page Project([TOP](https://www.theodinproject.com))
+- Fixed overflow when images rotated
+- Logic to switch tabs
+- created hero area of menu div and children
+
+**Thoughts:** planning to complete the project within 2 days.
+
+***Link to work:** [Restaurant Page](https://github.com/sandeepdotcode/restaurant-page)
+
+## Day 10: March 9, 2023 Thursday
+
+**Today's Progress**: 
+Worked on Restaurant Page Project([TOP](https://www.theodinproject.com))
+- Created Menu div & contents
+- Created & style menu cards to select type of menu
+
+**Thoughts:** 
+
+***Link to work:** [Restaurant Page](https://github.com/sandeepdotcode/restaurant-page)
+
+## Day 11: March 10, 2023 Friday
+
+**Today's Progress**: 
+Worked on Restaurant Page Project([TOP](https://www.theodinproject.com))
+- Created About Us hero area
+
+**Thoughts:** Forgot to commit changes. Changes commited on sunday(March 12).
+
+***Link to work:** [Restaurant Page](https://github.com/sandeepdotcode/restaurant-page)
+
+## Day 11(2): March 12, 2023 Sunday
+
+**Today's Progress**: 
+Did some practice activities and assessment from MDN for HTML tables
+
+**Thoughts:**
+
+***Link to work:**
+
+## Day 12: March 13, 2023 Monday
+
+**Today's Progress**: 
+Worked on Restaurant Page Project([TOP](https://www.theodinproject.com))
+- Completed About Us Page
+  - Created and Styled Manager div & contents
+  - Created and styled Chef div & contents
+
+**Thoughts:** project scheduled to complete tomorrow.
+
+***Link to work:** [Restaurant Page](https://github.com/sandeepdotcode/restaurant-page)
