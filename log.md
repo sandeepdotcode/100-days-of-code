@@ -143,7 +143,7 @@ Worked on Restaurant Page Project([TOP](https://www.theodinproject.com))
 **Today's Progress**: 
 Did some practice activities and assessment from MDN for HTML tables
 
-**Thoughts:**
+**Thoughts:** Missed a day so started again from day 11.
 
 ***Link to work:**
 
@@ -156,5 +156,28 @@ Worked on Restaurant Page Project([TOP](https://www.theodinproject.com))
   - Created and styled Chef div & contents
 
 **Thoughts:** project scheduled to complete tomorrow.
+
+***Link to work:** [Restaurant Page](https://github.com/sandeepdotcode/restaurant-page)
+
+## Day 13: March 14, 2023 Tuesday
+
+**Today's Progress**: 
+Worked on Restaurant Page Project([TOP](https://www.theodinproject.com))
+- Fixed multiple headers in home page not positioned correctly
+- Styled misson div para
+
+**Thoughts:** need a couple more days to complete restaurant page
+
+***Link to work:** [Restaurant Page](https://github.com/sandeepdotcode/restaurant-page)
+
+## Day 14: March 15, 2023 Wednesday
+
+**Today's Progress**: 
+Worked on Restaurant Page Project([TOP](https://www.theodinproject.com))
+- Fixed fonts not loading on chrome
+- Fixed home page text positions
+- Populated starters menu
+
+**Thoughts:** 
 
 ***Link to work:** [Restaurant Page](https://github.com/sandeepdotcode/restaurant-page)
