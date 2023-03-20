@@ -181,3 +181,16 @@ Worked on Restaurant Page Project([TOP](https://www.theodinproject.com))
 **Thoughts:** 
 
 ***Link to work:** [Restaurant Page](https://github.com/sandeepdotcode/restaurant-page)
+
+## Day 15 - 19 : March 16, 2023 Wednesday - March 20, 2023
+
+**Today's Progress**: 
+Completed Restaurant Page Project([TOP](https://www.theodinproject.com))
+- Created and styled footer
+- Added animations
+- Activate animation using InteractionObserver
+Started Todo List & Recursion Projects ([TOP](https://www.theodinproject.com))
+
+**Thoughts:** Finally completed(almost, salad menu left) restaurant page. Haven't been updating the log or twitter.
+
+***Link to work:** [Restaurant Page](https://github.com/sandeepdotcode/restaurant-page)
