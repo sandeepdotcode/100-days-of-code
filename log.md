@@ -182,7 +182,7 @@ Worked on Restaurant Page Project([TOP](https://www.theodinproject.com))
 
 ***Link to work:** [Restaurant Page](https://github.com/sandeepdotcode/restaurant-page)
 
-## Day 15 - 19 : March 16, 2023 Wednesday - March 20, 2023
+## Day 15 - 19 : March 16, 2023 Wednesday - March 20, 2023 Monday
 
 **Today's Progress**: 
 Completed Restaurant Page Project([TOP](https://www.theodinproject.com))
@@ -194,3 +194,25 @@ Started Todo List & Recursion Projects ([TOP](https://www.theodinproject.com))
 **Thoughts:** Finally completed(almost, salad menu left) restaurant page. Haven't been updating the log or twitter.
 
 ***Link to work:** [Restaurant Page](https://github.com/sandeepdotcode/restaurant-page)
+
+## Day 20: March 21, 2023 Tuesday
+
+**Today's Progress**: 
+Started working on todo list project([TOP](https://www.theodinproject.com))
+- Planned app structure
+- setup npm & webpack
+
+**Thoughts:**
+
+***Link to work:** [Todo List](https://github.com/sandeepdotcode/todo-list)
+
+## Day 20(2): March 23, 2023 Thursday
+
+**Today's Progress**: 
+Todo list project([TOP](https://www.theodinproject.com))
+- Created class to generate tasks
+Implemented a dynamic array in C++ with its own methods as practice
+
+**Thoughts:** Didn't code yesterday - I was too exhausted due to not sleeping. Today spent lot of time reading about different ways to create objects in JS, inheritance vs composition, etc.
+
+***Link to work:** [Todo List](https://github.com/sandeepdotcode/todo-list)
