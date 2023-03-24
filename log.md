@@ -216,3 +216,14 @@ Implemented a dynamic array in C++ with its own methods as practice
 **Thoughts:** Didn't code yesterday - I was too exhausted due to not sleeping. Today spent lot of time reading about different ways to create objects in JS, inheritance vs composition, etc.
 
 ***Link to work:** [Todo List](https://github.com/sandeepdotcode/todo-list)
+
+## Day 21: March 24, 2023 Friday
+
+**Today's Progress**: 
+Todo list project([TOP](https://www.theodinproject.com))
+- Created class to create Projects
+Implemented recursive fibonacci algorithm in JS
+
+**Thoughts:** 
+
+***Link to work:** [Todo List](https://github.com/sandeepdotcode/todo-list)
